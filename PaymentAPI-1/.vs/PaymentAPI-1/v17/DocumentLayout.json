@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaia\\Documents\\Programming\\.NET\\Angular_and_Net\\PaymentAPI-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1C7B4D-1D95-487D-AFEF-5335DF271019}|PaymentAPI-1\\PaymentAPI-1.csproj|c:\\users\\isaia\\documents\\programming\\.net\\angular_and_net\\paymentapi-1\\paymentapi-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1C7B4D-1D95-487D-AFEF-5335DF271019}|PaymentAPI-1\\PaymentAPI-1.csproj|solutionrelative:paymentapi-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1C7B4D-1D95-487D-AFEF-5335DF271019}|PaymentAPI-1\\PaymentAPI-1.csproj|c:\\users\\isaia\\documents\\programming\\.net\\angular_and_net\\paymentapi-1\\paymentapi-1\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1C7B4D-1D95-487D-AFEF-5335DF271019}|PaymentAPI-1\\PaymentAPI-1.csproj|solutionrelative:paymentapi-1\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1C7B4D-1D95-487D-AFEF-5335DF271019}|PaymentAPI-1\\PaymentAPI-1.csproj|c:\\users\\isaia\\documents\\programming\\.net\\angular_and_net\\paymentapi-1\\paymentapi-1\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1C7B4D-1D95-487D-AFEF-5335DF271019}|PaymentAPI-1\\PaymentAPI-1.csproj|solutionrelative:paymentapi-1\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1C7B4D-1D95-487D-AFEF-5335DF271019}|PaymentAPI-1\\PaymentAPI-1.csproj|c:\\users\\isaia\\documents\\programming\\.net\\angular_and_net\\paymentapi-1\\paymentapi-1\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1C7B4D-1D95-487D-AFEF-5335DF271019}|PaymentAPI-1\\PaymentAPI-1.csproj|solutionrelative:paymentapi-1\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1C7B4D-1D95-487D-AFEF-5335DF271019}|PaymentAPI-1\\PaymentAPI-1.csproj|c:\\users\\isaia\\documents\\programming\\.net\\angular_and_net\\paymentapi-1\\paymentapi-1\\migrations\\20241016230942_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1C7B4D-1D95-487D-AFEF-5335DF271019}|PaymentAPI-1\\PaymentAPI-1.csproj|solutionrelative:paymentapi-1\\migrations\\20241016230942_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1C7B4D-1D95-487D-AFEF-5335DF271019}|PaymentAPI-1\\PaymentAPI-1.csproj|c:\\users\\isaia\\documents\\programming\\.net\\angular_and_net\\paymentapi-1\\paymentapi-1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA1C7B4D-1D95-487D-AFEF-5335DF271019}|PaymentAPI-1\\PaymentAPI-1.csproj|solutionrelative:paymentapi-1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\isaia\\Documents\\Programming\\.NET\\Angular_and_Net\\PaymentAPI-1\\PaymentAPI-1\\Controllers\\PaymentDetailController.cs",
+              "RelativeDocumentMoniker": "PaymentAPI-1\\Controllers\\PaymentDetailController.cs",
+              "ToolTip": "C:\\Users\\isaia\\Documents\\Programming\\.NET\\Angular_and_Net\\PaymentAPI-1\\PaymentAPI-1\\Controllers\\PaymentDetailController.cs",
+              "RelativeToolTip": "PaymentAPI-1\\Controllers\\PaymentDetailController.cs",
+              "ViewState": "AgIAAAQAAABgLjMzM7MTwB8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:29:47.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentDetailContext.cs",
+              "DocumentMoniker": "C:\\Users\\isaia\\Documents\\Programming\\.NET\\Angular_and_Net\\PaymentAPI-1\\PaymentAPI-1\\Models\\PaymentDetailContext.cs",
+              "RelativeDocumentMoniker": "PaymentAPI-1\\Models\\PaymentDetailContext.cs",
+              "ToolTip": "C:\\Users\\isaia\\Documents\\Programming\\.NET\\Angular_and_Net\\PaymentAPI-1\\PaymentAPI-1\\Models\\PaymentDetailContext.cs",
+              "RelativeToolTip": "PaymentAPI-1\\Models\\PaymentDetailContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:16:00.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "C:\\Users\\isaia\\Documents\\Programming\\.NET\\Angular_and_Net\\PaymentAPI-1\\PaymentAPI-1\\Models\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "PaymentAPI-1\\Models\\PaymentDetail.cs",
+              "ToolTip": "C:\\Users\\isaia\\Documents\\Programming\\.NET\\Angular_and_Net\\PaymentAPI-1\\PaymentAPI-1\\Models\\PaymentDetail.cs",
+              "RelativeToolTip": "PaymentAPI-1\\Models\\PaymentDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:14:16.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isaia\\Documents\\Programming\\.NET\\Angular_and_Net\\PaymentAPI-1\\PaymentAPI-1\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentAPI-1\\Program.cs",
+              "ToolTip": "C:\\Users\\isaia\\Documents\\Programming\\.NET\\Angular_and_Net\\PaymentAPI-1\\PaymentAPI-1\\Program.cs",
+              "RelativeToolTip": "PaymentAPI-1\\Program.cs",
+              "ViewState": "AgIAAAAAAADAQzMzMzPbvxsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:03:59.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241016230942_First Migration.cs",
+              "DocumentMoniker": "C:\\Users\\isaia\\Documents\\Programming\\.NET\\Angular_and_Net\\PaymentAPI-1\\PaymentAPI-1\\Migrations\\20241016230942_First Migration.cs",
+              "RelativeDocumentMoniker": "PaymentAPI-1\\Migrations\\20241016230942_First Migration.cs",
+              "ToolTip": "C:\\Users\\isaia\\Documents\\Programming\\.NET\\Angular_and_Net\\PaymentAPI-1\\PaymentAPI-1\\Migrations\\20241016230942_First Migration.cs",
+              "RelativeToolTip": "PaymentAPI-1\\Migrations\\20241016230942_First Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:04:32.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\isaia\\Documents\\Programming\\.NET\\Angular_and_Net\\PaymentAPI-1\\PaymentAPI-1\\appsettings.json",
+              "RelativeDocumentMoniker": "PaymentAPI-1\\appsettings.json",
+              "ToolTip": "C:\\Users\\isaia\\Documents\\Programming\\.NET\\Angular_and_Net\\PaymentAPI-1\\PaymentAPI-1\\appsettings.json",
+              "RelativeToolTip": "PaymentAPI-1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T22:59:27.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
