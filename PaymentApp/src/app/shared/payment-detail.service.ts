@@ -3,6 +3,7 @@ import { HttpClient } from "@angular/common/http";
 import { environment } from '../../environments/environment';
 import { PaymentDetail } from './payment-detail.model';
 import { NgForm } from "@angular/forms";
+import { catchError, Observable } from 'rxjs';
 
 @Injectable({
   providedIn: 'root'
@@ -26,7 +27,6 @@ export class PaymentDetailService {
   }
 
   postPaymentDetail() {
-    console.log("Payment details: ", this.formData)
     return this.http.post(this.url, this.formData)
   }
 
